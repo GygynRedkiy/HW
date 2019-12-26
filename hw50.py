@@ -1,4 +1,3 @@
-
 def check_array(array):
  count_3=0
  sum_even=0.0
